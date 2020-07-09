@@ -11,7 +11,6 @@ import BlankScreen78682Navigator from '../features/BlankScreen78682/navigator';
 import BlankScreen58681Navigator from '../features/BlankScreen58681/navigator';
 import BlankScreen78679Navigator from '../features/BlankScreen78679/navigator';
 import BlankScreen38678Navigator from '../features/BlankScreen38678/navigator';
-import BlankScreen58677Navigator from '../features/BlankScreen58677/navigator';
 import BlankScreen28672Navigator from '../features/BlankScreen28672/navigator';
 import CalendarView77517Navigator from '../features/CalendarView77517/navigator';
 import BlankScreen57515Navigator from '../features/BlankScreen57515/navigator';
@@ -34,7 +33,6 @@ BlankScreen78682: { screen: BlankScreen78682Navigator },
 BlankScreen58681: { screen: BlankScreen58681Navigator },
 BlankScreen78679: { screen: BlankScreen78679Navigator },
 BlankScreen38678: { screen: BlankScreen38678Navigator },
-BlankScreen58677: { screen: BlankScreen58677Navigator },
 BlankScreen28672: { screen: BlankScreen28672Navigator },
 CalendarView77517: { screen: CalendarView77517Navigator },
 BlankScreen57515: { screen: BlankScreen57515Navigator },
